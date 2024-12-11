@@ -1,0 +1,797 @@
+[
+    {
+      "name": "Susan Akbarpour",
+      "company": "Candou Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_670b83942de4b.png"
+    },
+    {
+      "name": "Imad Ansari",
+      "company": "Edgewood Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66f2dddd06a20.png"
+    },
+    {
+      "name": "Tim Arnold",
+      "company": "Steamwork Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6721f5df67b0d.png"
+    },
+    {
+      "name": "Sebastian Barriga",
+      "company": "milemark•capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66f2db43902b2.png"
+    },
+    {
+      "name": "Anuraag Bhargava",
+      "company": "Lake Effect Ventures LLC",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_673c52b55df8f.png"
+    },
+    {
+      "name": "Jesse Bloom",
+      "company": "SaaS Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6745951c3251c.png"
+    },
+    {
+      "name": "Veronica Breckenridge",
+      "company": "First Bight Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67026a88c2e0d.png"
+    },
+    {
+      "name": "Daniel Burstein",
+      "company": "Millennium Technology Value Partners",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66f2dfc04ab7e.png"
+    },
+    {
+      "name": "Chris Byers",
+      "company": "PS27 Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/speakersj/headshot_653107e020deb.png"
+    },
+    {
+      "name": "Jonathan Carmel",
+      "company": "Impact Venture Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/speakersj/headshot_65703ccd827b3.png"
+    },
+    {
+      "name": "Andrew Chang",
+      "company": "WindSail Capital Group",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_674835083cea8.png"
+    },
+    {
+      "name": "Corey Christian",
+      "company": "Bosch Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67570dad7a6fe.png"
+    },
+    {
+      "name": "Andrew Clapp",
+      "company": "Brightside Venture Partners",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6723700445a00.png"
+    },
+    {
+      "name": "Bruce Cohen",
+      "company": "Xeraya Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/speaker_headshots/headshot_Bruce_Cohen_2023_06_21_08_06_02.png"
+    },
+    {
+      "name": "Heather Courtney",
+      "company": "Alwyn Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_673d9e691fc6b.png"
+    },
+    {
+      "name": "John Dauer",
+      "company": "Helium-3 Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66f2db6658961.png"
+    },
+    {
+      "name": "Tasneem Dohadwala",
+      "company": "Excelestar Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_670269bbab9f8.png"
+    },
+    {
+      "name": "Caitlin Donovan",
+      "company": "General Catalyst",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66fbe0ce8572d.png"
+    },
+    {
+      "name": "Robert Dupree",
+      "company": "Alwyn Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66f3e1a34fbea.png"
+    },
+    {
+      "name": "Hemant Elhence",
+      "company": "3Lines VC",
+      "imageUrl": "https://youngstartup.io/storage/uploads/speakersj/headshot_65bbcec8aa462.png"
+    },
+    {
+      "name": "Ilia Eremeev",
+      "company": "The Games Fund",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6730d772070bd.png"
+    },
+    {
+      "name": "Alex Fair",
+      "company": "MedStartr Venture Partners",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6757f0532ccd7.png"
+    },
+    {
+      "name": "David Feldman",
+      "company": "Inflect Health",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_674595aeec8f5.png"
+    },
+    {
+      "name": "Katerina Fialkovskaya",
+      "company": "Philips Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66f2e0b45ec48.png"
+    },
+    {
+      "name": "Michael Gilbert",
+      "company": "Fairstead Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_673d9efef3e11.png"
+    },
+    {
+      "name": "Allan Gobbs",
+      "company": "ATEM Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/speaker_headshots/headshot_Anton_Gopka_2023_08_06_08_49_02.png"
+    },
+    {
+      "name": "Shivam Goyal",
+      "company": "Endeavor Capital Management",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6751613b6fcdd.png"
+    },
+    {
+      "name": "Chris Haley",
+      "company": "FINTOP Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67306b6001fab.png"
+    },
+    {
+      "name": "Hongkai He",
+      "company": "Taihill Venture",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66c72c8a8f1c8.png"
+    },
+    {
+      "name": "Tim Hoag",
+      "company": "Artisanal Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66f2e1518eaed.png"
+    },
+    {
+      "name": "Tim Howe",
+      "company": "Collinson Howe Venture Partners",
+      "imageUrl": "https://youngstartup.io/storage/uploads//headshot_6639e2e98fbf2.png"
+    },
+    {
+      "name": "Cvic Innocent",
+      "company": "Frankenbuild Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_673d9e9de51f4.png"
+    },
+    {
+      "name": "Ben Jen",
+      "company": "1435 Capital Management",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6739a78830c6e.png"
+    },
+    {
+      "name": "Kange Kaneene",
+      "company": "Level Up Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67026a4a39dbe.png"
+    },
+    {
+      "name": "Ishneet Kaur",
+      "company": "National Grid Partners",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67306bcf2695a.png"
+    },
+    {
+      "name": "Brendan Kelly",
+      "company": "Lightstone Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66f2de4d9eb89.png"
+    },
+    {
+      "name": "Radhika Khandelwal",
+      "company": "Global Millennial Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66fbe265d8578.png"
+    },
+    {
+      "name": "Maria Kochmola",
+      "company": "The Games Fund",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6730d7af36df5.png"
+    },
+    {
+      "name": "Jeremy Krell",
+      "company": "Revere Partners",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6744aabcdfee1.png"
+    },
+    {
+      "name": "Cheryl Kuai",
+      "company": "Sixty Degree Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66f927021fe55.png"
+    },
+    {
+      "name": "John Kwon",
+      "company": "Samsung Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67306c4b8241a.png"
+    },
+    {
+      "name": "Victor Lanio",
+      "company": "Flare Capital Partners",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66f2e273b021a.png"
+    },
+    {
+      "name": "James Lee",
+      "company": "Betawave Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66f2de82295f8.png"
+    },
+    {
+      "name": "Ron Levin",
+      "company": "Alumni Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67306c0177be1.png"
+    },
+    {
+      "name": "Eric Levine",
+      "company": "BuildGroup",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_673c4e7a7a4c2.png"
+    },
+    {
+      "name": "Ryan Lewis",
+      "company": "SRI Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66f2e186821e6.png"
+    },
+    {
+      "name": "Ephraim Lindenbaum",
+      "company": "Advance Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/speaker_headshots/headshot_Ephraim_Lindenbaum_2023_02_08_15_49_18.png"
+    },
+    {
+      "name": "Jason Mackey",
+      "company": "Athenian Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_672372064da3c.png"
+    },
+    {
+      "name": "Gabriela Manrique",
+      "company": "Angelini Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_674ec18c580b3.png"
+    },
+    {
+      "name": "Jack Mark",
+      "company": "Hub Angels Investment Group",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6751cced7dac7.png"
+    },
+    {
+      "name": "Mark Mendel",
+      "company": "Sozo Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_673ef6e6538a2.png"
+    },
+    {
+      "name": "Laurent Metz",
+      "company": "Robin Hood Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_671e4deea7488.png"
+    },
+    {
+      "name": "Brant Meyer",
+      "company": "Trac VC",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66f2dbad5c848.png"
+    },
+    {
+      "name": "Junaid Mian",
+      "company": "1435 Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_673afcb18f5fd.png"
+    },
+    {
+      "name": "David Miller",
+      "company": "Clean Energy Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/speakersj/headshot_65475f4baff7c.png"
+    },
+    {
+      "name": "Fiona Miller",
+      "company": "quadraScope Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/speakersj/headshot_6567004ed9749.png"
+    },
+    {
+      "name": "Peter Misek",
+      "company": "Framework Venture Partners",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_670b848bf0255.png"
+    },
+    {
+      "name": "Aditya Mishra",
+      "company": "BAT VC",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66d4594ce35c9.png"
+    },
+    {
+      "name": "Jose Navarro",
+      "company": "quadraScope Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/speakersj/headshot_6515251e187bb.png"
+    },
+    {
+      "name": "Julie Norville",
+      "company": "Axial",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_674594e81e966.png"
+    },
+    {
+      "name": "Geoff Oblak",
+      "company": "Data Point Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_670b83fd1e69d.png"
+    },
+    {
+      "name": "Stephanie Oestreich",
+      "company": "Myeloma Investment Fund",
+      "imageUrl": "https://youngstartup.io/storage/uploads/speakersj/headshot_6567030c8348f.png"
+    },
+    {
+      "name": "Troy Osinoff",
+      "company": "Magic Fund",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66f2dc01aab6b.png"
+    },
+    {
+      "name": "Rajan Patel",
+      "company": "iO life ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_674c2542e2809.png"
+    },
+    {
+      "name": "Yatin Patil",
+      "company": "Doctors for Health Innovation (D4HI)",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_671f47c729e39.png"
+    },
+    {
+      "name": "Graham Peck",
+      "company": "Cultivation Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67062e19bf532.png"
+    },
+    {
+      "name": "Julien L. Pham",
+      "company": "3CC | Third Culture Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_671e0d7ee9c7a.png"
+    },
+    {
+      "name": "Mark Poag",
+      "company": "Fitz Gate Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66f2df19d23b9.png"
+    },
+    {
+      "name": "Robert Poor",
+      "company": "Good Growth Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_673478a41dbb7.png"
+    },
+    {
+      "name": "Ben Price",
+      "company": "Orbia Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/speakersj/headshot_656df351df464.png"
+    },
+    {
+      "name": "Charlie Purtell",
+      "company": "Danaher Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67556cb69cb69.png"
+    },
+    {
+      "name": "Kate Putnam",
+      "company": "Golden Seeds",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_674595856a85f.png"
+    },
+    {
+      "name": "Meir Rabkin",
+      "company": "Blue Vision Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6704f440a1fd7.png"
+    },
+    {
+      "name": "Shane Sabine",
+      "company": "Punch Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads//headshot_6638faa35d2b0.png"
+    },
+    {
+      "name": "Missa Sangimino-Ludwig",
+      "company": "Antin Infrastructure Partners",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_674736147ed41.png"
+    },
+    {
+      "name": "Kunal Sethi",
+      "company": "Prithvi Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66f2db8b3aa4f.png"
+    },
+    {
+      "name": "Wendy Sun",
+      "company": "Istari Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67210edfd06bf.png"
+    },
+    {
+      "name": "Stacy Swider",
+      "company": "MassVentures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67306b9de85f8.png"
+    },
+    {
+      "name": "Jason Syversen",
+      "company": "10X Venture Partners",
+      "imageUrl": "https://youngstartup.io/storage/uploads/speakersj/headshot_65314daccfd2e.png"
+    },
+    {
+      "name": "Guillaume Therien",
+      "company": "Triptyq Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_674733d531085.png"
+    },
+    {
+      "name": "Mark Thomann",
+      "company": "Spiral Sun Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_673c5064ba71c.png"
+    },
+    {
+      "name": "Bobby Tuohy",
+      "company": "25m Supply Chain",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_673c4f2157a92.png"
+    },
+    {
+      "name": "David Uffer",
+      "company": "General Inception",
+      "imageUrl": "https://youngstartup.io/storage/uploads/speakersj/headshot_6575809e76c50.png"
+    },
+    {
+      "name": "Armen Vidian",
+      "company": "Recode Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67026b3932464.png"
+    },
+    {
+      "name": "Mark Vreeke",
+      "company": "Chemical Angel Network",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_673ef641f32e2.png"
+    },
+    {
+      "name": "Catrina Wang",
+      "company": "Portal Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_673afc9475e3a.png"
+    },
+    {
+      "name": "Sally Wang Liang",
+      "company": "Highlight Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_673c5343220fc.png"
+    },
+    {
+      "name": "Teri Willey",
+      "company": "Pathway to Cures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_671e571816140.png"
+    },
+    {
+      "name": "Lawrence Williams",
+      "company": "De-Carceration Fund",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6751c5abdb316.png"
+    },
+    {
+      "name": "Meg Wood",
+      "company": "NYBC Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6729db2a8cfb8.png"
+    },
+    {
+      "name": "Fay Xing",
+      "company": "Panacea Venture",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67306c87f169c.png"
+    },
+    {
+      "name": "Catherine Zhai",
+      "company": "Citi",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_670e0f6da3d43.png"
+    },
+    {
+      "name": "Michael Zhao",
+      "company": "Longwood Biology",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_674f22563d64c.png"
+    },
+    {
+      "name": "Gabi Zijderveld",
+      "company": "Blue Tulip Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6739a8bf6e89b.png"
+    },
+    {
+      "name": "Doug Zingale",
+      "company": "Blue Goose Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_671f48fa3386e.png"
+    },
+    {
+      "name": "Aaron Zucker",
+      "company": "Sapir Venture Partners",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6731bbbe02145.png"
+    },
+    {
+      "name": "Gil Arazi",
+      "company": "FinTLV Venture Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67471a6a84b1b.png"
+    },
+    {
+      "name": "Jeffrey Arnold",
+      "company": "Boston Harbor Angels",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_671e0ddfdb5ab.png"
+    },
+    {
+      "name": "Nish Bhat",
+      "company": "Carbon Silicon Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6751615b103d8.png"
+    },
+    {
+      "name": "Karlos Bledsoe",
+      "company": "Seae Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6702691d55d51.png"
+    },
+    {
+      "name": "Jasmine Bonder",
+      "company": "Alamo Angels",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_673c521045c2e.png"
+    },
+    {
+      "name": "Guillaume Bouyoux",
+      "company": "Forepont Capital Partners",
+      "imageUrl": "https://youngstartup.io/storage/uploads//headshot_664ee63782600.png"
+    },
+    {
+      "name": "Erik Breckenfelder",
+      "company": "Miami Angels",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6746e032caeef.png"
+    },
+    {
+      "name": "Jason Cahill",
+      "company": "Earth Foundry",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67347957d25b9.png"
+    },
+    {
+      "name": "Sam Carter",
+      "company": "IAG Capital Partners",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66c1e9161e3a8.png"
+    },
+    {
+      "name": "Jin Chung",
+      "company": "SV Investment",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_674595d3e3efe.png"
+    },
+    {
+      "name": "Schuyler Dalton",
+      "company": "World Wildlife Fund",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6742e8bc3a786.png"
+    },
+    {
+      "name": "John Dodini",
+      "company": "Brave Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6746dfa083bff.png"
+    },
+    {
+      "name": "Lorenzo Donati",
+      "company": "BootstrapLabs, an Ares Company",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_673d9f422a738.png"
+    },
+    {
+      "name": "Zachary Eagle",
+      "company": "Siddhi Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6746deb6745bf.png"
+    },
+    {
+      "name": "Karl Eshwer",
+      "company": "BDev Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66b9b6be5019e.png"
+    },
+    {
+      "name": "Elena Gantvarg",
+      "company": "Flint Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/speakersj/headshot_6559d55c8f4e6.png"
+    },
+    {
+      "name": "Jake Goldklang",
+      "company": "Cartan Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6727334521e51.png"
+    },
+    {
+      "name": "Sophie Hsiao",
+      "company": "C10 Labs",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67459554d4f93.png"
+    },
+    {
+      "name": "Sean Jagermann",
+      "company": "Triptyq Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67473422a71bf.png"
+    },
+    {
+      "name": "Cat Jordan",
+      "company": "LEAD VC",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67443eaa8a617.png"
+    },
+    {
+      "name": "Ricardo Jordan",
+      "company": "Cycle Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67026b773ec5c.png"
+    },
+    {
+      "name": "Priyanka Kanal",
+      "company": "McKesson Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/speakersj/headshot_654cc68c0a6de.png"
+    },
+    {
+      "name": "Prateek Katti, MD, PhD",
+      "company": "Newpath Partners",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_673ef6907e30b.png"
+    },
+    {
+      "name": "Jake Kent",
+      "company": "Voyager",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_674d76c43e141.png"
+    },
+    {
+      "name": "Patrick Kneeland",
+      "company": "American Family Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_674ec1372ecb0.png"
+    },
+    {
+      "name": "Nguyen Le",
+      "company": "MUUS Climate Partners",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6704f47035b72.png"
+    },
+    {
+      "name": "Tamir Maixner",
+      "company": "aMoon Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_673c5169e8a1c.png"
+    },
+    {
+      "name": "Harrison Marks",
+      "company": "Commonweal Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66f2ddff4e1cf.png"
+    },
+    {
+      "name": "Nuné Martiros",
+      "company": "Paladin Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_670b846a2b51e.png"
+    },
+    {
+      "name": "James Massaquoi",
+      "company": "Glasswing Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6722622083ec4.png"
+    },
+    {
+      "name": "Maya Misra",
+      "company": "Angelini Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6756a15e66b49.png"
+    },
+    {
+      "name": "Lyman Missimer",
+      "company": "Owl Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6704f4f7de4d6.png"
+    },
+    {
+      "name": "Kenzie Mucci",
+      "company": "Takeda Digital Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66f2dce5dc9b9.png"
+    },
+    {
+      "name": "Christopher Murray",
+      "company": "MVM Partners",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6702694885f3e.png"
+    },
+    {
+      "name": "Benjamin Naovarat",
+      "company": "Cybernetix Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67556d1ddc9b7.png"
+    },
+    {
+      "name": "Brian Neer",
+      "company": "Neer Venture Partners",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_672733244e1b0.png"
+    },
+    {
+      "name": "Lloyd Nelson",
+      "company": "Blockchain Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_671e10067210d.png"
+    },
+    {
+      "name": "Sean O'Connor",
+      "company": "T1D Fund",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66f2dc732c494.png"
+    },
+    {
+      "name": "Madelyn OFarrell",
+      "company": "Dynamo Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67306c20c8fae.png"
+    },
+    {
+      "name": "Kumbaya Okorie",
+      "company": "Atento Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6746de8339d95.png"
+    },
+    {
+      "name": "Sophia Olmos",
+      "company": "Capitalize VC",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67026b5628b05.png"
+    },
+    {
+      "name": "Chloë Payne",
+      "company": "Ponderosa Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6745cb9e0a2c9.png"
+    },
+    {
+      "name": "Dave Peak",
+      "company": "Companyon Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_673ef5ffb62ab.png"
+    },
+    {
+      "name": "Guy Pistone",
+      "company": "Launchpad Venture Group",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_674834ea1920c.png"
+    },
+    {
+      "name": "Amy Quan",
+      "company": "Brderless",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6746df0cad440.png"
+    },
+    {
+      "name": "Greg Raiz",
+      "company": "FoundersEdge",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67570de599e17.png"
+    },
+    {
+      "name": "Abigail Risse",
+      "company": "Cerity Partners Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67556b52a8c17.png"
+    },
+    {
+      "name": "Fabian Ronisky",
+      "company": "L'ATTITUDE Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66fbe17cb37fb.png"
+    },
+    {
+      "name": "Noah Sadhwani",
+      "company": "Suffolk Tech",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6746df32061a8.png"
+    },
+    {
+      "name": "Stephen Schweich",
+      "company": "Cherrystone Angel Group",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_675011db28d23.png"
+    },
+    {
+      "name": "Nao Shibata",
+      "company": "BGV",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67210f093749e.png"
+    },
+    {
+      "name": "Daniel Simon",
+      "company": "Brderless",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6750118107dcf.png"
+    },
+    {
+      "name": "Victoria Smith",
+      "company": "Zacua Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66fbe11c91144.png"
+    },
+    {
+      "name": "Adarsh Sowcar",
+      "company": "NOVA by Saint-Gobain",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6747512035e86.png"
+    },
+    {
+      "name": "Kyle Spottiswood",
+      "company": "Maniv",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_66d459fae8b4f.png"
+    },
+    {
+      "name": "Jack Stephens",
+      "company": "Vesta Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6747349e4d1a1.png"
+    },
+    {
+      "name": "Alex Strasser",
+      "company": "Apollo Health Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_673c4fa010116.png"
+    },
+    {
+      "name": "Melissa Tse",
+      "company": "Cerity Partners Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67556b83bd3cd.png"
+    },
+    {
+      "name": "Owen Van Arsdale",
+      "company": "Founders Circle Capital",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6739a8e368c82.png"
+    },
+    {
+      "name": "Jared Van Ryne",
+      "company": "Mana Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_674ecb8810a5d.png"
+    },
+    {
+      "name": "Jerrold Wang",
+      "company": "GC Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_6748357068cc3.png"
+    },
+    {
+      "name": "Wen Wen",
+      "company": "Aurelia Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_672b28290bb66.png"
+    },
+    {
+      "name": "John Zimmerman",
+      "company": "Cerity Partners Ventures",
+      "imageUrl": "https://youngstartup.io/storage/uploads/models/SpeakerJs/headshot_url_67556ba65ac47.png"
+    }
+  ]
